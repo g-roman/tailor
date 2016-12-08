@@ -1,0 +1,11 @@
+.fragment {
+	padding: 30px;
+	margin: 10px;
+	text-align: center;
+	background-color: #ffffff;
+	font-family: arial, serif;
+	color: #b0b0b0;
+	font-size: 13px;
+	line-height: 18px;
+	border-top: 1px solid gray;
+}
